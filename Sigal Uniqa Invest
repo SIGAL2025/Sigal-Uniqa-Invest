@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SIGAL UNIQA INVEST</title>
+  <style>
+    body { font-family: Arial; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+    header { background: #005baa; color: white; padding: 30px 10px; text-align: center; }
+    section { padding: 20px; max-width: 900px; margin: auto; }
+    .video-container { text-align: center; margin: 30px 0; }
+    iframe { width: 100%; max-width: 700px; height: 400px; }
+    footer { background: #005baa; color: white; text-align: center; padding: 15px; margin-top: 40px; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>SIGAL UNIQA INVEST</h1>
+    <p>Portofoli zyrtar i investimeve dhe projekteve</p>
+  </header>
+
+  <section>
+    <h2>Rreth Nesh</h2>
+    <p>SIGAL UNIQA INVEST është një nga kompanitë kryesore në fushën e investimeve dhe sigurimeve në Shqipëri dhe rajon. Këtu mund të shihni informacione, projekte dhe video prezantuese.</p>
+
+    <h2>Video Prezantuese</h2>
+    <div class="video-container">
+      <!-- Zëvendëso këtë link me videon tuaj në YouTube -->
+      <iframe src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <h2>Projektet Tona</h2>
+    <ul>
+      <li>Investimi në sektorin e shëndetësisë – 2023</li>
+      <li>Partneritet me UNIQA Group Austria</li>
+      <li>Iniciativa për sigurimin e gjelbër</li>
+    </ul>
+
+    <h2>Kontakt</h2>
+    <p>Email: info@sigal-uniqa.com</p>
+    <p>LinkedIn: <a href="https://linkedin.com" target="_blank">Profili ynë</a></p>
+  </section>
+
+  <footer>
+    © 2025 SIGAL UNIQA INVEST – Të gjitha të drejtat e rezervuara.
+  </footer>
+
+</body>
+</html>
